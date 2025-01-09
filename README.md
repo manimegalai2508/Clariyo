@@ -57,6 +57,13 @@ python main.py
 2. **Profile View:** See user information and trigger alerts manually.  
 3. **Trigger Emergency Alert:** Use the button in the app or press `Ctrl + P` to send an emergency SMS with location details to the registered guardian.  
 
+
+
+
+
+
+
+
 https://github.com/user-attachments/assets/ce38d39f-28eb-4c8d-a6cd-b37d7ea02ca7
 
 
