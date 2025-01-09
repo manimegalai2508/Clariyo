@@ -66,10 +66,4 @@ python main.py
 
 https://github.com/user-attachments/assets/ce38d39f-28eb-4c8d-a6cd-b37d7ea02ca7
 
-
-
-
-
-
-
 ![Clariyo alert](https://github.com/user-attachments/assets/c6b953b4-3e46-4452-a06c-87299444afd5)
